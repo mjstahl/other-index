@@ -4,7 +4,7 @@
   "description": "Simple HTTP server to serve a single file other than index.html. Used for development testing.",
   "main": "index.js",
   "bin": {
-    "other-index": "index"
+    "other-index": "./index.js"
   },
   "scripts": {
     "lint": "standard --fix"
