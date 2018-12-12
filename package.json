@@ -1,6 +1,6 @@
 {
   "name": "@mjstahl/other-index",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple HTTP server to serve a single file other than index.html. Used for development testing.",
   "main": "index.js",
   "bin": {
